@@ -1,0 +1,23 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "\"Lets rock\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zishan696/Simple-Node-Server.git"
+  },
+  "author": "zishan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zishan696/Simple-Node-Server/issues"
+  },
+  "homepage": "https://github.com/zishan696/Simple-Node-Server#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.0"
+  }
+}
